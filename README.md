@@ -39,3 +39,11 @@ This Flask-based web application enables users to upload multiple images, store 
     (iv) Effortless Navigation: Clean and responsive design for user interaction
   
     (v) Feel free to modify the contact information or add any specific customization for your project
+
+## Author
+
+(c) 2024 Shreyaasri Prakash
+
+shreyaa.prakash2015@gmail.com
+
+
